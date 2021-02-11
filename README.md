@@ -6,7 +6,7 @@ malcolm.barclay2004@gmail.com
 Flag: L34v1Ng_tH3_5y5t3M
 
 ## Briefing
-Dowload the packet capture, find and decode the data being efiltrated.
+Dowload the packet capture, find and decode the data being exfiltrated.
 
 By dooby2004.
 
